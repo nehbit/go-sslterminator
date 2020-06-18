@@ -1,3 +1,9 @@
+To proxy godoc:
+
+```
+sudo ./go-sslterminator -b localhost:6060 -l localhost:443
+```
+
 Introduction
 ================
 
